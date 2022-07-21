@@ -5,5 +5,8 @@ export const styleSheet = {
         height: "auto",
         flexDirection: "column",
         alignItems: "center",
+        // backgroundColor: "gray"
     }
 }
+/*
+export default styleSheet;*/
